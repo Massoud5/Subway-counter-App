@@ -1,4 +1,4 @@
-Training Project
+Training Project of << scrimba.com >>
 
 Subway Counter Application
 
